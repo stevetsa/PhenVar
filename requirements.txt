@@ -1,5 +1,6 @@
 biopython
 nltk
 wordcloud
-PIL
+#PIL
+pillow
 matplotlib
